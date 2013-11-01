@@ -1,0 +1,1 @@
+A library for reading Riot Archive Files used in the League of Legends update protocol.
